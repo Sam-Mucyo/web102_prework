@@ -75,3 +75,10 @@ button {
     margin: 1%;
     border-radius: 7px;
 }
+
+.search-box {
+    padding-left: 2.375rem;
+    width: 80%;
+    height: 2.375rem;
+}
+
